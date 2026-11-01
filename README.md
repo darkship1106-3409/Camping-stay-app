@@ -1,6 +1,6 @@
 # 머뭄 — 마음을 머물다.
 
-독립 Cloudflare Workers + D1 버전. ChatGPT 로그인 없이 운영합니다. v28의 3D·명상·목탁·라디오·공개 캠프(방당 10명)를 포함합니다.
+독립 Cloudflare Workers + D1 버전. 3D·명상·목탁·라디오·공개 캠프(방당 10명)를 포함합니다.
 
 ## 1. 코드 업로드
 전체 ZIP을 받은 경우 압축을 풀어 **내용물**(public 폴더, scripts 폴더, worker.js, package.json, wrangler.jsonc 등)을 GitHub 저장소 최상위에 업로드하세요. ZIP 파일 자체를 올리면 배포되지 않습니다. 모든 public 파일이 포함된 ZIP 업로드에서는 아래 자동 가져오기 단계를 생략할 수 있습니다.
