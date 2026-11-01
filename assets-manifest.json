@@ -146,8 +146,8 @@
   },
   {
     "path": "public/camp/index.html",
-    "sha256": "57959c3e9f0d982bc296c6a24448feef3d0e9498c23e7a7ec814946ebe540cd9",
-    "size": 115122
+    "sha256": "97059692047a939f2e79ec5592522191e9e14c7f6a5ad42b6ffee0e07b0c1a09",
+    "size": 115393
   },
   {
     "path": "public/camp/three.module.js",
@@ -158,5 +158,35 @@
     "path": "public/favicon.svg",
     "sha256": "e6d2e59b7b5bbb0342e0fb496dfc262decbfe4426bbb7b047aec8d467d1dc6f7",
     "size": 712
+  },
+  {
+    "path": "public/manifest.webmanifest",
+    "sha256": "6d5bd2ebec67ff5048c182ba039261c893a71f1943ffa122ab11f26fbeaf9247",
+    "size": 416
+  },
+  {
+    "path": "public/icons/meomum.svg",
+    "sha256": "f0d26ee4f1c0104efb2838ac34545e588a2149dcdb99f6b5ebd27c42ae8fc5d2",
+    "size": 655
+  },
+  {
+    "path": "public/favicon.ico",
+    "sha256": "70d1451de9b3ff0a00c5048c6aadbd389910521ab85dcbde0f7c58109a9c602b",
+    "size": 2771
+  },
+  {
+    "path": "public/icons/icon-512.png",
+    "sha256": "19ee5755ec7b2362c5d185a053ebba1fe4fce7ab57b84234b59a2551784437f2",
+    "size": 18631
+  },
+  {
+    "path": "public/icons/icon-192.png",
+    "sha256": "11137456b7c686acd81233def973dff363bf93dd91ae9e355b219066d51c017f",
+    "size": 9251
+  },
+  {
+    "path": "public/icons/apple-touch-icon.png",
+    "sha256": "a5e5b20f89e4ddd8c57412dd40170fda823184c5647919bb565f85a58c5df358",
+    "size": 8627
   }
 ]
