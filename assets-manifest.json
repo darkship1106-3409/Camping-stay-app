@@ -1,0 +1,162 @@
+[
+  {
+    "path": "public/camp/BufferGeometryUtils.js",
+    "sha256": "3de832095679e56578beddf70f3e90846a47ec8a886fa8eb21c973cdaef88922",
+    "size": 31780
+  },
+  {
+    "path": "public/camp/GLTFLoader.js",
+    "sha256": "458b025b12213713958b07012b48aa5e84aebb562c92cfe53ea82d41bda2fd42",
+    "size": 110278
+  },
+  {
+    "path": "public/camp/Projector.js",
+    "sha256": "7de90663b41eff625a186879bc52bec215cafeff5ad128623fa3161af40b1033",
+    "size": 19392
+  },
+  {
+    "path": "public/camp/SVGRenderer.js",
+    "sha256": "feddcef78ff8072ce2a2dc9d47c2629aa5a51f506e737238b025402d897b84bc",
+    "size": 12637
+  },
+  {
+    "path": "public/camp/THREE-LICENSE.txt",
+    "sha256": "4c40a1ef62450b857c3b2aaf294936304cd552d965fbcd9d32d4c5bcf4ba4454",
+    "size": 1081
+  },
+  {
+    "path": "public/camp/assets/ASSET_CREDITS.txt",
+    "sha256": "536cfee3da611519d48d2f1d26cf237c70db99cf01fd5ffb701873f14f4e7744",
+    "size": 2282
+  },
+  {
+    "path": "public/camp/assets/camp_canopy.glb",
+    "sha256": "f3135170c2bedb7dd0e409075c2e5c31f2febedc7d7d9195c1d290c4e27790cb",
+    "size": 133212
+  },
+  {
+    "path": "public/camp/assets/ever-mindful22.mp3",
+    "sha256": "d1b79c94574976c1ea1fc41c983c60dc5adae2d1e775b39b4096ab6e78443b8c",
+    "size": 19189387
+  },
+  {
+    "path": "public/camp/assets/fire_field.mp3",
+    "sha256": "7d572953600b99385e6c344014b44d3721d6b4c719108478cd49dc9cd34c3639",
+    "size": 462302
+  },
+  {
+    "path": "public/camp/assets/forest_field.mp3",
+    "sha256": "d9c7c35ce4e7edb2c238033127f495f56eafa02660bc364d32be25de605d71cb",
+    "size": 481348
+  },
+  {
+    "path": "public/camp/assets/jeju_coastal_rock.glb",
+    "sha256": "1709a4dab7542d2784d85ce286e6b0cd6ee76e9b6fb75cd67911643e3849feaa",
+    "size": 439560
+  },
+  {
+    "path": "public/camp/assets/jeju_coastal_rock_low.glb",
+    "sha256": "cb03a00ea1c73e6256063c5ed11083b46b78804e318304c2e0144a06018fea87",
+    "size": 210884
+  },
+  {
+    "path": "public/camp/assets/jeju_silver_grass.glb",
+    "sha256": "75c1f7b30bddd8b1e4654c126dccb28657fce6896c7eb0f6625d57de2d796e9e",
+    "size": 47816
+  },
+  {
+    "path": "public/camp/assets/mackerel_cooked.jpg",
+    "sha256": "0c586b3d5653e09306f42ace555ca562bd18026b9d1d9f554097b373b1a452c6",
+    "size": 102513
+  },
+  {
+    "path": "public/camp/assets/mackerel_skin.jpg",
+    "sha256": "f300846d4250fa0714e31dcbf1606420e8fc3ef80d6c21c7f7a2fe5ff29ac9a1",
+    "size": 147628
+  },
+  {
+    "path": "public/camp/assets/moktak-user23.mp3",
+    "sha256": "9bfc448b95d7b7482ce67888223ba216a854a164b7eb2be1d7a0bc63e5c476c7",
+    "size": 494927
+  },
+  {
+    "path": "public/camp/assets/mokugyo-curated22.mp3",
+    "sha256": "afd715c199b69d5fe6ca9f583f330d08e76e6ebad08ef5e10779fa3f7289bd31",
+    "size": 379437
+  },
+  {
+    "path": "public/camp/assets/music19.mp3",
+    "sha256": "e1af9a904c082e662a7b2e8a9beea7ee9d386d765b212cc00e2336edc51360e9",
+    "size": 193142
+  },
+  {
+    "path": "public/camp/assets/ocean_field.mp3",
+    "sha256": "eca9ee4620c18b614bc30a49a5ef986d5900024fc73003b5ca4f1068f94b3f04",
+    "size": 481605
+  },
+  {
+    "path": "public/camp/assets/pork_cooked.jpg",
+    "sha256": "cfa0917111baf82eb5c558d639d76a770cca7ff76382223ff62e6a3be67c332d",
+    "size": 185726
+  },
+  {
+    "path": "public/camp/assets/pork_raw.jpg",
+    "sha256": "f2e727a19dbb07d748cdf72b94e971c4dfb124a3b6f446a1306a9017aad935dd",
+    "size": 177182
+  },
+  {
+    "path": "public/camp/assets/pork_side.jpg",
+    "sha256": "d0b1d35171248249fe6b4f8e0b5648fd167f3590bf17639e2aa4a98b8ab8a5d7",
+    "size": 118063
+  },
+  {
+    "path": "public/camp/assets/rain_field.mp3",
+    "sha256": "827a9eb52a78f19c1a997bbc8c027143e92cf3a4facba1440b91613a2dc1cfc4",
+    "size": 481310
+  },
+  {
+    "path": "public/camp/assets/softend19.mp3",
+    "sha256": "e97594981eb136d10ad4a4898d6327145e9773c93ad7f7d16fc019fc4bfe75de",
+    "size": 61171
+  },
+  {
+    "path": "public/camp/assets/welcome.mp4",
+    "sha256": "34bde74d44aad8265779aa8956a7cc7da00d2acb498f5dcbd0a4f13fc77daf7b",
+    "size": 2883050
+  },
+  {
+    "path": "public/camp/assets/welcome.png",
+    "sha256": "c98400b94f1fbd19f8dd29f3203156fbfcba527e90b759949b9c0f8c675b0116",
+    "size": 3689406
+  },
+  {
+    "path": "public/camp/assets/wood19.mp3",
+    "sha256": "708f4e51e2ba9ba14053ac467c794346ead73d5af19893a1a4a6446fedb7da0d",
+    "size": 97220
+  },
+  {
+    "path": "public/camp/camp3d.js",
+    "sha256": "569681801b0294fc5197d168070af514a6ed57f6f0514cb0368739373ca78a6b",
+    "size": 71553
+  },
+  {
+    "path": "public/camp/food-studio.js",
+    "sha256": "f9dee55071461631234b318c0908f6aa8b347d7a13cf97dd966653e0516d0353",
+    "size": 14883
+  },
+  {
+    "path": "public/camp/index.html",
+    "sha256": "57959c3e9f0d982bc296c6a24448feef3d0e9498c23e7a7ec814946ebe540cd9",
+    "size": 115122
+  },
+  {
+    "path": "public/camp/three.module.js",
+    "sha256": "ce1fa418de16a19495a9f72495580e3015d7745c296d3ce0485897f902ddedfb",
+    "size": 1314681
+  },
+  {
+    "path": "public/favicon.svg",
+    "sha256": "e6d2e59b7b5bbb0342e0fb496dfc262decbfe4426bbb7b047aec8d467d1dc6f7",
+    "size": 712
+  }
+]

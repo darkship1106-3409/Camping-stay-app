@@ -1,0 +1,25 @@
+Meomum — Jeju quality study
+
+Scan-derived coastal rock: coast_rocks_03, Poly Haven, CC0.
+https://polyhaven.com/a/coast_rocks_03
+https://polyhaven.com/license
+Not a scan of an actual Jeju location; recoloured and decimated for this fictional scene.
+Source triangles reduced with position/UV clustering; texture maps resized to 512px.
+
+Camp canopy and silver grass: authored for Meomum.
+Three.js and its official GLTFLoader/BufferGeometryUtils: MIT, see THREE-LICENSE.txt.
+
+Food Studio v8: geometry and cooking surface maps authored for Meomum. Food textures are procedurally illustrated, not photographic scans. Cooking and audio are an ambient simulation, not a cooking tutorial.
+
+Meomum v13 field recordings (trimmed/re-encoded MP3, not recordings made in the depicted Korean regions):
+Ocean: Sea: Waves #0266, DenisChardonnet, BigSoundBank, CC0. https://bigsoundbank.com/sea-waves-s0266.html
+Forest: Forest #3 #2715, BigSoundBank, CC0. https://bigsoundbank.com/forest-3-s2715.html
+Fire: Big Branching Fire #1 #0987, BigSoundBank, CC0. https://bigsoundbank.com/big-branching-fire-1-s0987.html
+Rain: Rain and thunder in a tent #0820, BigSoundBank, CC0. https://bigsoundbank.com/rain-and-storm-in-a-tent-s0820.html
+Bird patterns, cooking, cat purr and interactions additionally use synthesis. Local experiences are illustrative mini activities, not a recreation of actual facilities or ecology.
+
+Meditation update 22 (2026-11-01)
+Ever Mindful — Kevin MacLeod (incompetech.com), CC BY 4.0 https://creativecommons.org/licenses/by/4.0/ . Reencoded to 96 kbps MP3. Source https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1700033
+Mokugyo — PicoPico-Station https://picopico-station.com/se/mokugyo/ . Synthesized source, adapted with lowpass, subtle echo, loudness normalization and repetition for in-app use. Terms https://picopico-station.com/terms/ permit use in apps and modified incorporation; no standalone asset redistribution.
+
+Update 23: active meditation wood channel replaced with user-supplied ScreenRecording_11-01-2026 14-57-40_1.mp4 audio, converted to MP3 (57.4 seconds). User stated source is copyright-free and requested inclusion. Original source reference: https://www.youtube.com/watch?v=g8tbcGcKNDI . Source licensing not independently verified.
